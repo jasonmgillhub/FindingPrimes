@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace SoftSource_Test
+namespace FindingPrimes_Test
 {
     [TestClass]
     public class PrimeTests
